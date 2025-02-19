@@ -1,0 +1,74 @@
+('o579330683_makeitallright'
+   ('name' "Make It All Right")
+   ('artist' "The Offspring")
+   ('master' 1)
+   ('song'
+      ('name' "songs/o579330683_makeitallright/o579330683_makeitallright")
+      ('tracks'
+         (
+            ('drum' (0 1))
+            ('bass' (2 3))
+            ('guitar' (4 5))
+            ('vocals' (6 7))
+         )
+      )
+      ('pans' (-1.0 1.0 -1.0 1.0 -1.0 1.0 -1.0 1.0 -1.0 1.0))
+      ('vols' (0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0))
+      ('cores' (-1 -1 -1 -1 -1 -1 -1 -1 -1 -1))
+      ('vocal_parts' 3)
+      ('drum_solo'
+         ('seqs' ('kick.cue' 'snare.cue' 'tom1.cue' 'tom2.cue' 'crash.cue'))
+      )
+      ('drum_freestyle'
+         ('seqs' ('kick.cue' 'snare.cue' 'hat.cue' 'ride.cue' 'crash.cue'))
+      )
+      (midi_file "songs/o579330683_makeitallright/o579330683_makeitallright.mid")
+   )
+   ('song_scroll_speed' 2300)
+   ('bank' "sfx/tambourine_bank.milo")
+   (drum_bank sfx/kit01_bank.milo)
+   ('anim_tempo' 32)
+   ('song_length' 218947)
+   ('preview' 48000 78000)
+   ('rank'
+      ('band' 215)
+      ('guitar' 139)
+      ('drum' 242)
+      ('bass' 1)
+      ('vocals' 218)
+   )
+   ('genre' 'punk')
+   ('vocal_gender' 'male')
+   ('version' 0)
+   ('format' 4)
+   ('album_art' 1)
+   ('year_released' 2024)
+   ('rating' 1)
+   ('sub_genre' 'subgenre_pop')
+   ('song_id' 463556442)
+   ('tuning_offset_cents' 0.0)
+   ('game_origin' 'rb2')
+   ('encoding' 'latin1')
+   ('album_name' "SUPERCHARGED")
+   ('album_track_number' 4)
+   (video_venues (video_02))
+   ('ugc' 1)
+   ('context' 2000)
+   ('decade' 'the10s')
+   (downloaded TRUE)
+   ('base_points' 0)
+   ('author' "Nicorockstar")
+   ;DO NOT EDIT THE FOLLOWING LINES MANUALLY
+   ;Created using Onyx Music Game Toolkit version 20240928
+   ;Song authored by Nicorockstar
+   ;Song=Make It All Right
+   ;Languages=English,
+   ;Karaoke=0
+   ;Multitrack=1
+   ;Convert=0
+   ;2xBass=0
+   ;RhythmKeys=0
+   ;RhythmBass=0
+   ;CATemh=0
+   ;ExpertOnly=0
+)

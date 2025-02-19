@@ -1,0 +1,76 @@
+base-version: 0
+licenses:
+- bits: 1
+  flags: 0
+  id: -1
+- bits: 0
+  flags: 0
+  id: 0
+- bits: 0
+  flags: 0
+  id: 0
+- bits: 0
+  flags: 0
+  id: 0
+- bits: 0
+  flags: 0
+  id: 0
+- bits: 0
+  flags: 0
+  id: 0
+- bits: 0
+  flags: 0
+  id: 0
+- bits: 0
+  flags: 0
+  id: 0
+- bits: 0
+  flags: 0
+  id: 0
+- bits: 0
+  flags: 0
+  id: 0
+- bits: 0
+  flags: 0
+  id: 0
+- bits: 0
+  flags: 0
+  id: 0
+- bits: 0
+  flags: 0
+  id: 0
+- bits: 0
+  flags: 0
+  id: 0
+- bits: 0
+  flags: 0
+  id: 0
+- bits: 0
+  flags: 0
+  id: 0
+media-id: 0
+package-description:
+- Compiled by Onyx Music Game Toolkit version 20240928
+- ''
+- ''
+- ''
+- ''
+- ''
+- ''
+- ''
+- ''
+package-name:
+- The Offspring - Make It All Right
+- ''
+- ''
+- ''
+- ''
+- ''
+- ''
+- ''
+- ''
+sign-live: false
+title-id: 1161889897
+title-name: Rock Band 2
+transfer-flags: 192
+version: 0
