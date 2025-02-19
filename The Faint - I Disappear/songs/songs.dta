@@ -1,0 +1,74 @@
+('IDisappear_Bakar'
+   ('name' "I Disappear")
+   ('artist' "The Faint")
+   ('master' 1)
+   ('song'
+      ('name' "songs/idisappear_bakar/idisappear_bakar")
+      ('tracks_count' (2 2 2 2 0 2))
+      ('tracks'
+         (
+            ('drum' (0 1))
+            ('bass' (2 3))
+            ('guitar' (4 5))
+            ('vocals' (6 7))
+         )
+      )
+      ('pans' (-1.00 1.00 -1.00 1.00 -1.00 1.00 -1.00 1.00 -1.00 1.00))
+      ('vols' (0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00))
+      ('cores' (-1 -1 -1 -1 -1 -1 -1 -1 -1 -1))
+      ('vocal_parts' 1)
+      ('drum_solo'
+         ('seqs' ('kick.cue' 'snare.cue' 'tom1.cue' 'tom2.cue' 'crash.cue'))
+      )
+      ('drum_freestyle'
+         ('seqs' ('kick.cue' 'snare.cue' 'hat.cue' 'ride.cue' 'crash.cue'))
+      )
+      (mute_volume -96)
+      (mute_volume_vocals -12)
+      (hopo_threshold 170)
+   )
+   ('song_scroll_speed' 2300)
+   ('bank' "sfx/tambourine_bank.milo")
+   (drum_bank sfx/kit01_bank.milo)
+   ('anim_tempo' 32)
+   ('song_length' 252104)
+   ('preview' 70000 100000)
+   ('rank'
+      ('drum' 448)
+      ('guitar' 176)
+      ('bass' 293)
+      ('vocals' 175)
+      ('keys' 0)
+      ('real_keys' 0)
+      ('band' 292)
+   )
+   ('genre' 'indierock')
+   ('vocal_gender' 'male')
+   ('version' 30)
+   ('format' 10)
+   ('album_art' 1)
+   ('year_released' 2006)
+   ('rating' 2)
+   ('sub_genre' 'subgenre_indierock')
+   ('song_id' 1654600421)
+   ('tuning_offset_cents' 0)
+   ('guide_pitch_volume' -3.00)
+   ('game_origin' 'ugc_plus')
+   ('encoding' 'latin1')
+   ('album_name' "Wet From Birth")
+   ('album_track_number' 3)
+
+   ;DO NOT EDIT THE FOLLOWING LINES MANUALLY
+   ;Created using Magma: C3 Roks Edition v3.3.2
+   ;Song authored by Bakartridge
+   ;Song=I Disappear
+   ;Language(s)=English,
+   ;Karaoke=0
+   ;Multitrack=0
+   ;Convert=0
+   ;2xBass=0
+   ;RhythmKeys=0
+   ;RhythmBass=0
+   ;CATemh=0
+   ;ExpertOnly=0
+)

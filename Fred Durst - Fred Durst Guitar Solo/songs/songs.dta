@@ -1,0 +1,71 @@
+('FredDurstGuitarSolo_rb3co'
+   ('name' "Fred Durst Guitar Solo")
+   ('artist' "Fred Durst")
+   ('master' 1)
+   ('song'
+      ('name' "songs/freddurstguitarsolo/freddurstguitarsolo")
+      ('tracks_count' (0 0 2 2 0 2))
+      ('tracks'
+         (
+            ('guitar' (0 1))
+            ('vocals' (2 3))
+         )
+      )
+      ('pans' (-1.00 1.00 -1.00 1.00 -1.00 1.00))
+      ('vols' (0.00 0.00 0.00 0.00 0.00 0.00))
+      ('cores' (-1 -1 -1 -1 -1 -1))
+      ('vocal_parts' 1)
+      ('drum_solo'
+         ('seqs' ('kick.cue' 'snare.cue' 'tom1.cue' 'tom2.cue' 'crash.cue'))
+      )
+      ('drum_freestyle'
+         ('seqs' ('kick.cue' 'snare.cue' 'hat.cue' 'ride.cue' 'crash.cue'))
+      )
+      (mute_volume -96)
+      (mute_volume_vocals -12)
+      (hopo_threshold 170)
+   )
+   ('song_scroll_speed' 2300)
+   ('bank' "sfx/tambourine_bank.milo")
+   (drum_bank sfx/kit01_bank.milo)
+   ('anim_tempo' 16)
+   ('song_length' 55200)
+   ('preview' 10000 40000)
+   ('rank'
+      ('drum' 0)
+      ('guitar' 176)
+      ('bass' 0)
+      ('vocals' 1)
+      ('keys' 0)
+      ('real_keys' 0)
+      ('band' 165)
+   )
+   ('genre' 'rock')
+   ('vocal_gender' 'male')
+   ('version' 30)
+   ('format' 10)
+   ('album_art' 1)
+   ('year_released' 2003)
+   ('rating' 2)
+   ('sub_genre' 'subgenre_other')
+   ('song_id' 1654600148)
+   (solo (guitar))
+   ('tuning_offset_cents' 0)
+   ('guide_pitch_volume' -3.00)
+   ('game_origin' 'ugc_plus')
+   ('encoding' 'latin1')
+
+   ;DO NOT EDIT THE FOLLOWING LINES MANUALLY
+   ;Created using Magma: C3 Roks Edition v3.3.2
+   ;Song authored by Bakartridge
+   ;Song=Fred Durst Guitar Solo
+   ;Language(s)=English,
+   ;Karaoke=0
+   ;Multitrack=1
+   ;Convert=0
+   ;2xBass=0
+   ;RhythmKeys=0
+   ;RhythmBass=0
+   ;CATemh=0
+   ;ExpertOnly=0
+)

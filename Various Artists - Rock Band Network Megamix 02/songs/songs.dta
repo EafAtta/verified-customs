@@ -1,0 +1,118 @@
+('RBNMegamix02_Bakar'
+   ('name' "Rock Band Network Megamix 02")
+   ('artist' "Various Artists")
+   ('master' 1)
+   ('song'
+      ('name' "songs/rbnmegamix02_bakar/rbnmegamix02_bakar")
+      ('tracks_count' (6 2 2 2 2 2))
+      ('tracks'
+         (
+            ('drum' (0 1 2 3 4 5))
+            ('bass' (6 7))
+            ('guitar' (8 9))
+            ('vocals' (10 11))
+            ('keys' (12 13))
+         )
+      )
+      ('pans'
+         (
+            -1.00
+            1.00
+            -1.00
+            1.00
+            -1.00
+            1.00
+            -1.00
+            1.00
+            -1.00
+            1.00
+            -1.00
+            1.00
+            -1.00
+            1.00
+            -1.00
+            1.00
+         )
+      )
+      ('vols'
+         (
+            0.00
+            0.00
+            0.00
+            0.00
+            0.00
+            0.00
+            0.00
+            0.00
+            0.00
+            0.00
+            0.00
+            0.00
+            0.00
+            0.00
+            0.00
+            0.00
+         )
+      )
+      ('cores' (-1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1))
+      ('vocal_parts' 3)
+      ('drum_solo'
+         ('seqs' ('kick.cue' 'snare.cue' 'tom1.cue' 'tom2.cue' 'crash.cue'))
+      )
+      ('drum_freestyle'
+         ('seqs' ('kick.cue' 'snare.cue' 'hat.cue' 'ride.cue' 'crash.cue'))
+      )
+      (mute_volume -96)
+      (mute_volume_vocals -12)
+      (hopo_threshold 170)
+   )
+   ('song_scroll_speed' 2300)
+   ('bank' "sfx/handclap_bank.milo")
+   (drum_bank sfx/kit01_bank.milo)
+   ('anim_tempo' 32)
+   ('song_length' 602379)
+   ('preview' 60000 90000)
+   ('rank'
+      ('drum' 448)
+      ('guitar' 409)
+      ('bass' 436)
+      ('vocals' 279)
+      ('keys' 443)
+      ('real_keys' 443)
+      ('band' 345)
+   )
+   ('genre' 'other')
+   ('vocal_gender' 'male')
+   ('version' 30)
+   ('format' 10)
+   ('album_art' 1)
+   ('year_recorded' 2025)
+   ('year_released' 2012)
+   ('rating' 2)
+   ('sub_genre' 'subgenre_other')
+   ('song_id' 1654600378)
+   (solo (drum guitar vocal_percussion))
+   ('tuning_offset_cents' 0)
+   ('guide_pitch_volume' -3.00)
+   ('game_origin' 'ugc_plus')
+   ('encoding' 'latin1')
+   ('album_name' "Rock Band Network Megamixes")
+   ('loading_phrase'
+      "Originally a proof of concept back in 2012 or so, this has finally been given a proper chart!"
+   )
+   ('album_track_number' 2)
+
+   ;DO NOT EDIT THE FOLLOWING LINES MANUALLY
+   ;Created using Magma: C3 Roks Edition v3.3.2
+   ;Song authored by Bakartridge, and the original charters
+   ;Song=Rock Band Network Megamix 02
+   ;Language(s)=English,
+   ;Karaoke=0
+   ;Multitrack=1
+   ;Convert=1
+   ;2xBass=0
+   ;RhythmKeys=0
+   ;RhythmBass=0
+   ;CATemh=0
+   ;ExpertOnly=0
+)

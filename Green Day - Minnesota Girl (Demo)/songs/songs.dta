@@ -1,0 +1,71 @@
+('o209074317_minnesotagirlde'
+   ('name' "Minnesota Girl (Demo)")
+   ('artist' "Green Day")
+   ('master' 1)
+   ('song'
+      ('name' "songs/o209074317_minnesotagirlde/o209074317_minnesotagirlde")
+      ('tracks'
+         (
+            ('guitar' (0 1))
+            ('vocals' (2 3))
+         )
+      )
+      ('pans' (-1.0 1.0 -1.0 1.0 -1.0 1.0))
+      ('vols' (0.0 0.0 0.0 0.0 0.0 0.0))
+      ('cores' (-1 -1 -1 -1 -1 -1))
+      ('vocal_parts' 1)
+      ('drum_solo'
+         ('seqs' ('kick.cue' 'snare.cue' 'tom1.cue' 'tom2.cue' 'crash.cue'))
+      )
+      ('drum_freestyle'
+         ('seqs' ('kick.cue' 'snare.cue' 'hat.cue' 'ride.cue' 'crash.cue'))
+      )
+      (midi_file
+         "songs/o209074317_minnesotagirlde/o209074317_minnesotagirlde.mid"
+      )
+   )
+   ('song_scroll_speed' 2300)
+   ('bank' "sfx/tambourine_bank.milo")
+   (drum_bank sfx/kit01_bank.milo)
+   ('anim_tempo' 16)
+   ('song_length' 194545)
+   ('preview' 30000 60000)
+   ('rank'
+      ('band' 1)
+      ('guitar' 1)
+      ('drum' 0)
+      ('bass' 0)
+      ('vocals' 1)
+   )
+   ('genre' 'alternative')
+   ('vocal_gender' 'male')
+   ('version' 0)
+   ('format' 4)
+   ('album_art' 1)
+   ('year_released' 2001)
+   ('rating' 1)
+   ('sub_genre' 'subgenre_alternative')
+   ('song_id' 423830876)
+   ('tuning_offset_cents' 0.0)
+   ('game_origin' 'rb2')
+   ('encoding' 'latin1')
+   ('ugc' 1)
+   ('context' 2000)
+   ('decade' 'the00s')
+   (downloaded TRUE)
+   ('base_points' 0)
+   ('author' "Nicorockstar")
+   ;DO NOT EDIT THE FOLLOWING LINES MANUALLY
+   ;Created using Onyx Music Game Toolkit version 20240928
+   ;Song authored by Nicorockstar
+   ;Song=Minnesota Girl (Demo)
+   ;Languages=English,
+   ;Karaoke=0
+   ;Multitrack=1
+   ;Convert=0
+   ;2xBass=0
+   ;RhythmKeys=0
+   ;RhythmBass=0
+   ;CATemh=0
+   ;ExpertOnly=0
+)
