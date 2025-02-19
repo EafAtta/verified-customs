@@ -1,0 +1,78 @@
+('Vrey_laurales_dressashuma'
+   ('name' "how to dress as human")
+   ('artist' "laura les")
+   ('master' 1)
+   ('song'
+      ('name' "songs/vrey_laurales_dressashuman/vrey_laurales_dressashuman")
+      ('tracks_count' (2 2 2 2 2 2))
+      ('tracks'
+         (
+            ('drum' (0 1))
+            ('bass' (2 3))
+            ('guitar' (4 5))
+            ('vocals' (6 7))
+            ('keys' (8 9))
+         )
+      )
+      ('pans' (-1.0 1.0 -1.0 1.0 -1.0 1.0 -1.0 1.0 -1.0 1.0 -1.0 1.0))
+      ('vols' (0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0))
+      ('cores' (-1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1))
+      ('vocal_parts' 1)
+      ('drum_solo'
+         ('seqs' ('kick.cue' 'snare.cue' 'tom1.cue' 'tom2.cue' 'crash.cue'))
+      )
+      ('drum_freestyle'
+         ('seqs' ('kick.cue' 'snare.cue' 'hat.cue' 'ride.cue' 'crash.cue'))
+      )
+      ('mute_volume' -96)
+      ('mute_volume_vocals' -12)
+      ('hopo_threshold' 170)
+   )
+   ('song_scroll_speed' 2300)
+   ('bank' "sfx/tambourine_bank.milo")
+   (drum_bank sfx/kit05_bank.milo)
+   ('anim_tempo' 16)
+   ('song_length' 119986)
+   ('preview' 39000 69000)
+   ('rank'
+      ('drum' 151)
+      ('guitar' 176)
+      ('bass' 1)
+      ('vocals' 279)
+      ('keys' 1)
+      ('real_keys' 1)
+      ('band' 165)
+   )
+   ('genre' 'popdanceelectronic')
+   ('author' "VreyIsGrey")
+   ('vocal_gender' 'female')
+   ('version' 30)
+   ('format' 10)
+   ('album_art' 1)
+   ('year_released' 2017)
+   ('rating' 2)
+   ('sub_genre' 'subgenre_other')
+   ('song_id' 2122100458)
+   ('tuning_offset_cents' 0)
+   ('guide_pitch_volume' -3.0)
+   ('game_origin' 'ugc_plus')
+   ('loading_phrase' "trans rights")
+   ('album_name'
+      "i just dont wanna name it anything with \qbeach\q in the title"
+   )
+   ('album_track_number' 1)
+   ('vocal_tonic_note' 1)
+   ('song_tonality' 0)
+
+   ;Song authored by VreyIsGrey
+   ;Song=how to dress as human
+   ;Language(s)=English,
+   ;Karaoke=0
+   ;Multitrack=0
+   ;Convert=0
+   ;2xBass=0
+   ;RhythmKeys=0
+   ;RhythmBass=0
+   ;CATemh=0
+   ;ExpertOnly=0
+)

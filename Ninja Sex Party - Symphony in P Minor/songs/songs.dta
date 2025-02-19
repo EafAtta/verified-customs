@@ -1,0 +1,75 @@
+('NSP_PMinor'
+   ('name' "Symphony in P Minor")
+   ('artist' "Ninja Sex Party")
+   ('master' 1)
+   ('song'
+      ('name' "songs/nsp_pminor/nsp_pminor")
+      ((0 0 0 2 2 2 2))
+      ('tracks'
+         (
+            ('vocals' (0 1))
+            ('keys' (2 3))
+         )
+      )
+      ('pans' (-1.00 1.00 -1.00 1.00 -1.00 1.00 -2.50 2.50))
+      ('vols' (0.00 0.00 0.00 0.00 0.00 0.00 -5 -5))
+      ('cores' (-1 -1 -1 -1 -1 -1 -1 -1))
+      ('crowd_channels' 6 7)
+      ('vocal_parts' 1)
+      ('drum_solo'
+         ('seqs' ('kick.cue' 'snare.cue' 'tom1.cue' 'tom2.cue' 'crash.cue'))
+      )
+      ('drum_freestyle'
+         ('seqs' ('kick.cue' 'snare.cue' 'hat.cue' 'ride.cue' 'crash.cue'))
+      )
+      (mute_volume -96)
+      (mute_volume_vocals -12)
+      (hopo_threshold 170)
+   )
+   ('song_scroll_speed' 2300)
+   ('bank' "sfx/tambourine_bank.milo")
+   (drum_bank sfx/kit01_bank.milo)
+   ('anim_tempo' 32)
+   ('song_length' 18837)
+   ('preview' 4240 18240)
+   ('rank'
+      ('drum' 0)
+      ('guitar' 0)
+      ('bass' 0)
+      ('vocals' 1)
+      ('keys' 269)
+      ('real_keys' 269)
+      ('band' 165)
+   )
+   ('genre' 'novelty')
+   (author "VreyIsGrey")
+   ('loading_phrase' "He makes a pretty convincing argument, no?")
+   ('vocal_gender' 'male')
+   ('version' 30)
+   ('format' 10)
+   ('album_art' 1)
+   ('year_released' 2013)
+   ('rating' 3)
+   ('sub_genre' 'subgenre_novelty')
+   ('song_id' 2122100435)
+   ('tuning_offset_cents' 0)
+   ('guide_pitch_volume' -3.00)
+   ('game_origin' 'ugc_plus')
+   ('encoding' 'latin1')
+   ('album_name' "Strawberries and Cream")
+   ('album_track_number' 6)
+   (vocal_tonic_note 7)
+   (song_tonality 0)
+   ;DO NOT EDIT THE FOLLOWING LINES MANUALLY
+   ;Song authored by VreyIsGrey
+   ;Song=Symphony in P Minor
+   ;Language(s)=English,
+   ;Karaoke=0
+   ;Multitrack=1
+   ;Convert=0
+   ;2xBass=0
+   ;RhythmKeys=0
+   ;RhythmBass=0
+   ;CATemh=0
+   ;ExpertOnly=0
+)

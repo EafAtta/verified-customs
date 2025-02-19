@@ -1,0 +1,79 @@
+('Seinfeld'
+   ('name' "Seinfeld")
+   ('artist' "Jonathan Wolff")
+   ('master' 1)
+   ('song'
+      ('name' "songs/seinfeld/seinfeld")
+      ((2 2 0 0 2 2 2))
+      ('tracks'
+         (
+            ('drum' (0 1))
+            ('bass' (2 3))
+            ('keys' (4 5))
+         )
+      )
+      ('pans' (-1.00 1.00 -1.00 1.00 -1.00 1.00 -1.00 1.00 -2.50 2.50))
+      ('vols' (0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 -5 -5))
+      ('cores' (-1 -1 -1 -1 -1 -1 -1 -1 -1 -1))
+      ('crowd_channels' 8 9)
+      ('vocal_parts' 0)
+      ('drum_solo'
+         ('seqs' ('kick.cue' 'snare.cue' 'tom1.cue' 'tom2.cue' 'crash.cue'))
+      )
+      ('drum_freestyle'
+         ('seqs' ('kick.cue' 'snare.cue' 'hat.cue' 'ride.cue' 'crash.cue'))
+      )
+      (mute_volume -96)
+      (mute_volume_vocals -12)
+      (hopo_threshold 170)
+   )
+   ('song_scroll_speed' 2300)
+   ('bank' "sfx/tambourine_bank.milo")
+   (drum_bank sfx/kit05_bank.milo)
+   ('anim_tempo' 32)
+   ('song_length' 60237)
+   ('preview' 5006 35006)
+   ('rank'
+      ('drum' 124)
+      ('guitar' 0)
+      ('bass' 228)
+      (real_bass 316)
+      ('vocals' 0)
+      ('keys' 211)
+      ('real_keys' 211)
+      ('band' 215)
+   )
+
+   ('genre' 'novelty')
+   (author Septekka)
+   (strings_author JDK)
+   (real_bass_tuning (0 0 0 0))
+   ('vocal_gender' 'male')
+   ('version' 30)
+   ('format' 10)
+   ('album_art' 1)
+   ('year_released' 1989)
+   ('rating' 1)
+   ('sub_genre' 'subgenre_novelty')
+   ('song_id' 1026300065)
+   ('tuning_offset_cents' 0)
+   ('guide_pitch_volume' -3.00)
+   ('game_origin' 'ugc_plus')
+   ('encoding' 'latin1')
+   ('album_name' "Seinfeld")
+   ('album_track_number' 1)
+
+   ;DO NOT EDIT THE FOLLOWING LINES MANUALLY
+   ;Created using Magma: C3 Roks Edition v3.2.7
+   ;Song authored by Septekka
+   ;Song=Seinfeld
+   ;Language(s)=English,
+   ;Karaoke=0
+   ;Multitrack=0
+   ;Convert=0
+   ;2xBass=0
+   ;RhythmKeys=0
+   ;RhythmBass=0
+   ;CATemh=0
+   ;ExpertOnly=0
+)
