@@ -60,6 +60,7 @@
    ('album_track_number' 1)
    (vocal_tonic_note 1)
    (song_tonality 0)
+   (author "Trisha Karlton")
 
    ;DO NOT EDIT THE FOLLOWING LINES MANUALLY
    ;Created using Magma: C3 Roks Edition v3.3.5

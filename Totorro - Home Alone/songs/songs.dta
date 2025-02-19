@@ -57,6 +57,7 @@
    ('encoding' 'latin1')
    ('album_name' "Home Alone")
    ('album_track_number' 1)
+   (author "Bakartridge")
 
    ;DO NOT EDIT THE FOLLOWING LINES MANUALLY
    ;Created using Magma: C3 Roks Edition v3.3.2

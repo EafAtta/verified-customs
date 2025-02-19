@@ -45,8 +45,8 @@
    )
 
    ('genre' 'novelty')
-   (author Septekka)
-   (strings_author JDK)
+   (author "Septekka")
+   (strings_author "JDK")
    (real_bass_tuning (0 0 0 0))
    ('vocal_gender' 'male')
    ('version' 30)
