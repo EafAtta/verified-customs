@@ -1,0 +1,74 @@
+﻿
+('o541930969_rappsnitchknish'
+   ('name' "Rapp Snitch Knishes (ft. Mr. Fantastik)")
+   ('artist' "MF DOOM")
+   ('master' 1)
+   ('song'
+      ('name' "songs/o541930969_rappsnitchknish/o541930969_rappsnitchknish")
+      ('tracks'
+         (
+            ('drum' (0 1))
+            ('bass' (2))
+            ('guitar' (3))
+            ('vocals' (4))
+         )
+      )
+      ('pans' (-1.0 1.0 0.0 0.0 0.0 -1.0 1.0))
+      ('vols' (0.0 0.0 0.0 0.0 0.0 0.0 0.0))
+      ('cores' (-1 -1 -1 -1 -1 -1 -1))
+      ('vocal_parts' 3)
+      ('drum_solo'
+         ('seqs' ('kick.cue' 'snare.cue' 'tom1.cue' 'tom2.cue' 'crash.cue'))
+      )
+      ('drum_freestyle'
+         ('seqs' ('kick.cue' 'snare.cue' 'hat.cue' 'ride.cue' 'crash.cue'))
+      )
+      ('hopo_threshold' 170)
+   )
+   ('song_scroll_speed' 2300)
+   ('bank' "sfx/tambourine_bank.milo")
+   (drum_bank sfx/kit01_bank.milo)
+   ('anim_tempo' 'kTempoMedium')
+   ('song_length' 179805)
+   ('preview' 27000 57000)
+   ('rank'
+      ('band' 267)
+      ('real_keys' 0)
+      ('guitar' 333)
+      ('real_bass' 0)
+      ('drum' 242)
+      ('bass' 228)
+      ('keys' 0)
+      ('vocals' 175)
+      ('real_guitar' 0)
+   )
+   ('genre' 'hiphoprap')
+   ('vocal_gender' 'male')
+   ('version' 30)
+   ('format' 10)
+   ('album_art' 1)
+   ('year_released' 2004)
+   ('rating' 4)
+   ('sub_genre' 'subgenre_rap')
+   ('song_id' 482864278)
+   ('tuning_offset_cents' 0.0)
+   ('guide_pitch_volume' -3.0)
+   ('game_origin' 'ugc_plus')
+   ('encoding' 'utf8')
+   ('album_name' "MM... FOOD")
+   ('album_track_number' 13)
+   ('author' "TheOreo")
+   ;DO NOT EDIT THE FOLLOWING LINES MANUALLY
+   ;Created using Onyx Music Game Toolkit version 20230917
+   ;Song authored by TheOreo
+   ;Song=Rapp Snitch Knishes (ft. Mr. Fantastik)
+   ;Languages=
+   ;Karaoke=0
+   ;Multitrack=0
+   ;Convert=0
+   ;2xBass=0
+   ;RhythmKeys=0
+   ;RhythmBass=0
+   ;CATemh=0
+   ;ExpertOnly=0
+)
