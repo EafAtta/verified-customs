@@ -1,0 +1,74 @@
+('o229363698_itsalright_cama'
+   ('name' "It's Alright")
+   ('artist' "Camarosmith")
+   ('master' 1)
+   ('song'
+      ('name' "songs/o229363698_itsalright_cama/o229363698_itsalright_cama")
+      ('tracks'
+         (
+            ('drum' (0 1 2 3 4))
+            ('bass' (5 6))
+            ('guitar' (7 8))
+            ('vocals' (9 10))
+         )
+      )
+      ('vocal_parts' 3)
+      ('pans' (0.0 -1.0 1.0 -1.0 1.0 -1.0 1.0 -1.0 1.0 -1.0 1.0 -1.0 1.0))
+      ('vols' (0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0))
+      ('cores' (-1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1))
+      ('drum_solo'
+         ('seqs' ('kick.cue' 'snare.cue' 'tom1.cue' 'tom2.cue' 'crash.cue'))
+      )
+      ('drum_freestyle'
+         ('seqs' ('kick.cue' 'snare.cue' 'hat.cue' 'ride.cue' 'crash.cue'))
+      )
+      (midi_file
+         "songs/o229363698_itsalright_cama/o229363698_itsalright_cama.mid"
+      )
+   )
+   ('song_scroll_speed' 2300)
+   ('bank' "sfx/cowbell_bank.milo")
+   ('anim_tempo' 32)
+   ('song_length' 180653)
+   ('preview' 26010 56009)
+   ('rank'
+      ('band' 274)
+      ('guitar' 247)
+      ('drum' 208)
+      ('bass' 259)
+      ('vocals' 220)
+   )
+   ('genre' 'rock')
+   ('vocal_gender' 'male')
+   ('vocal_tonic_note' 11)
+   ('version' 0)
+   ('format' 4)
+   ('album_art' 1)
+   ('year_released' 2003)
+   ('rating' 3)
+   ('sub_genre' 'subgenre_rock')
+   ('song_id' 1848900248)
+   ('tuning_offset_cents' 0.0)
+   ('game_origin' 'rb2')
+   ('album_name' "Camarosmith")
+   ('album_track_number' 1)
+   ('ugc' 1)
+   ('context' 2000)
+   ('decade' 'the00s')
+   (downloaded TRUE)
+   ('base_points' 0)
+   ('author' "IaSg14, ataeaf")
+   ;DO NOT EDIT THE FOLLOWING LINES MANUALLY
+   ;Created using Onyx Music Game Toolkit version 20230917
+   ;Song authored by IaSg14, ataeaf
+   ;Song=It's Alright
+   ;Languages=English,
+   ;Karaoke=0
+   ;Multitrack=1
+   ;Convert=0
+   ;2xBass=0
+   ;RhythmKeys=0
+   ;RhythmBass=0
+   ;CATemh=0
+   ;ExpertOnly=0
+)
