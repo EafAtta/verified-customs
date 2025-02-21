@@ -1,0 +1,130 @@
+(
+   'DJE3_Revolution'
+   (
+      'name'
+      "Revolution (ft. Hatsune Miku)"
+   )
+   (
+      'artist'
+      "DJ Endr3alm"
+   )
+   ('master' 1)
+   (
+      'song'
+      (
+         'name'
+         "songs/dje3_revolution/dje3_revolution"
+      )
+      (
+         'tracks_count'
+         (2 2 2 2 2 2)
+      )
+      (
+         'tracks'
+         (
+            (
+               'drum'
+               (0 1)
+            )
+            (
+               'bass'
+               (2 3)
+            )
+            (
+               'guitar'
+               (4 5)
+            )
+            (
+               'vocals'
+               (6 7)
+            )
+            (
+               'keys'
+               (8 9)
+            )
+         )
+      )
+      (
+         'pans'
+         (-1.00 1.00 -1.00 1.00 -1.00 1.00 -1.00 1.00 -1.00 1.00 -1.00 1.00)
+      )
+      (
+         'vols'
+         (0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00)
+      )
+      (
+         'cores'
+         (-1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1)
+      )
+      ('vocal_parts' 3)
+      (
+         'drum_solo'
+         (
+            'seqs'
+            ('kick.cue' 'snare.cue' 'tom1.cue' 'tom2.cue' 'crash.cue')
+         )
+      )
+      (
+         'drum_freestyle'
+         (
+            'seqs'
+            ('kick.cue' 'snare.cue' 'hat.cue' 'ride.cue' 'crash.cue')
+         )
+      )
+      (mute_volume -96)
+      (mute_volume_vocals -12)
+      (hopo_threshold 170)
+   )
+   ('song_scroll_speed' 2300)
+   (
+      'bank'
+      "sfx/tambourine_bank.milo"
+   )
+   (drum_bank sfx/kit05_bank.milo)
+   ('anim_tempo' 32)
+   ('song_length' 322103)
+   ('preview' 114000 144000)
+   (
+      'rank'
+      ('drum' 178)
+      ('guitar' 221)
+      ('bass' 293)
+      ('vocals' 218)
+      ('keys' 269)
+      ('real_keys' 269)
+      ('band' 243)
+   )
+   ('genre' 'popdanceelectronic')
+   ('vocal_gender' 'female')
+   ('version' 30)
+   ('format' 10)
+   ('album_art' 1)
+   ('year_released' 2018)
+   ('rating' 1)
+   ('sub_genre' 'subgenre_dub')
+   ('song_id' 1654600067)
+   (solo (keys))
+   ('tuning_offset_cents' 0)
+   ('guide_pitch_volume' -3.00)
+   ('game_origin' 'ugc_plus')
+   ('encoding' 'latin1')
+   (
+      'album_name'
+      "This Is A Ringtone"
+   )
+   ('album_track_number' 3)
+
+;DO NOT EDIT THE FOLLOWING LINES MANUALLY
+;Created using Magma: C3 Roks Edition v3.3.2
+;Song authored by CharlieDotEXE
+;Song=Revolution (ft. Hatsune Miku)
+;Language(s)=English,
+;Karaoke=0
+;Multitrack=0
+;Convert=0
+;2xBass=0
+;RhythmKeys=0
+;RhythmBass=0
+;CATemh=0
+;ExpertOnly=0
+)
