@@ -1,0 +1,77 @@
+('side_roulettedare'
+   ('name' "Roulette Dares (The Haunt Of)")
+   ('artist' "The Mars Volta")
+   ('master' 1)
+   ('song'
+      ('name' "songs/side_roulettedare/side_roulettedare")
+      ('tracks_count' (2 2 2 2 2 2))
+      ('tracks'
+         (
+            ('drum' (0 1))
+            ('bass' (2 3))
+            ('guitar' (4 5))
+            ('vocals' (6 7))
+            ('keys' (8 9))
+         )
+      )
+      ('pans'
+         (-1.00 1.00 -1.00 1.00 -1.00 1.00 -1.00 1.00 -1.00 1.00 -1.00 1.00)
+      )
+      ('vols' (0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00))
+      ('cores' (-1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1))
+      ('vocal_parts' 1)
+      ('drum_solo'
+         ('seqs' ('kick.cue' 'snare.cue' 'tom1.cue' 'tom2.cue' 'crash.cue'))
+      )
+      ('drum_freestyle'
+         ('seqs' ('kick.cue' 'snare.cue' 'hat.cue' 'ride.cue' 'crash.cue'))
+      )
+      (mute_volume -96)
+      (mute_volume_vocals -12)
+      (hopo_threshold 170)
+   )
+   ('song_scroll_speed' 2300)
+   ('bank' "sfx/tambourine_bank.milo")
+   (drum_bank sfx/kit01_bank.milo)
+   ('anim_tempo' 16)
+   ('song_length' 431182)
+   ('preview' 96000 126000)
+   ('rank'
+      ('drum' 448)
+      ('guitar' 333)
+      ('bass' 293)
+      ('vocals' 353)
+      ('keys' 153)
+      ('real_keys' 153)
+      ('band' 292)
+   )
+   ('genre' 'prog')
+   ('vocal_gender' 'male')
+   ('version' 30)
+   ('format' 10)
+   ('album_art' 1)
+   ('year_released' 2003)
+   ('rating' 2)
+   ('sub_genre' 'subgenre_progrock')
+   ('song_id' 1011701511)
+   ('tuning_offset_cents' 0)
+   ('guide_pitch_volume' -3.00)
+   ('game_origin' 'ugc_plus')
+   ('encoding' 'latin1')
+   ('album_name' "De-Loused in the Comatorium")
+   ('album_track_number' 3)
+   (author "Sideshow, ItalianStal1ion, MrBurpler")
+   ;DO NOT EDIT THE FOLLOWING LINES MANUALLY
+   ;Created using Magma: C3 Roks Edition v3.3.2
+   ;Song authored by Sideshow, ItalianStal1ion, MrBurpler
+   ;Song=Roulette Dares (The Haunt Of)
+   ;Language(s)=English,
+   ;Karaoke=0
+   ;Multitrack=0
+   ;Convert=0
+   ;2xBass=0
+   ;RhythmKeys=0
+   ;RhythmBass=0
+   ;CATemh=1
+   ;ExpertOnly=0
+)

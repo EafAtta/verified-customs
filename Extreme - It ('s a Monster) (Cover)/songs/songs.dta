@@ -1,0 +1,73 @@
+('o618712663_itsamonster_ext'
+   ('name' "It ('s a Monster) (Cover)")
+   ('artist' "Extreme")
+   ('master' 0)
+   ('song'
+      ('name' "songs/o618712663_itsamonster_ext/o618712663_itsamonster_ext")
+      ('tracks'
+         (
+            ('drum' (0 1))
+            ('bass' (2))
+            ('guitar' (3 4))
+            ('vocals' (5 6))
+         )
+      )
+      ('vocal_parts' 3)
+      ('pans' (-1.0 1.0 0.0 -1.0 1.0 -1.0 1.0 -1.0 1.0))
+      ('vols' (0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0))
+      ('cores' (-1 -1 -1 1 1 -1 -1 -1 -1))
+      ('drum_solo'
+         ('seqs' ('kick.cue' 'snare.cue' 'tom1.cue' 'tom2.cue' 'crash.cue'))
+      )
+      ('drum_freestyle'
+         ('seqs' ('kick.cue' 'snare.cue' 'hat.cue' 'ride.cue' 'crash.cue'))
+      )
+      ;(hopo_threshold 170)
+   )
+   ('song_scroll_speed' 2300)
+   ('bank' "sfx/cowbell_bank.milo")
+   ('anim_tempo' 32)
+   ('song_length' 269347)
+   ('preview' 67844 97844)
+   ('rank'
+      ('band' 328)
+      ('guitar' 354)
+      ('drum' 208)
+      ('bass' 298)
+      ('vocals' 298)
+   )
+   ('genre' 'rock')
+   ('vocal_gender' 'male')
+   ('vocal_tonic_note' 6)
+   ('version' 0)
+   ('format' 4)
+   ('album_art' 1)
+   ('year_released' 1990)
+   ('rating' 3)
+   ('sub_genre' 'subgenre_hardrock')
+   ;('song_id' 85495695)
+   ('song_id' 1848900250)
+   ('tuning_offset_cents' 0.0)
+   ('game_origin' rb2)
+   ('album_name' "Extreme II. Pornograffitti (A Funked Up Fairy Tale)")
+   ('album_track_number' 7)
+   ('ugc' 1)
+   ('context' 2000)
+   ('decade' 'the90s')
+   (downloaded TRUE)
+   ('base_points' 0)
+   ('author' "ataeaf")
+   ;DO NOT EDIT THE FOLLOWING LINES MANUALLY
+   ;Created using Onyx Music Game Toolkit version 20240220
+   ;Song authored by ataeaf
+   ;Song=It ('s a Monster)
+   ;Languages=English,
+   ;Karaoke=0
+   ;Multitrack=1
+   ;Convert=0
+   ;2xBass=0
+   ;RhythmKeys=0
+   ;RhythmBass=0
+   ;CATemh=0
+   ;ExpertOnly=0
+)

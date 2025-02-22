@@ -1,0 +1,78 @@
+('TommyTheCat_Primus1x'
+   ('name' "Tommy the Cat (ft. Tom Waits)")
+   ('artist' "Primus")
+   ('master' 1)
+   ('song'
+      ('name' "songs/tommythecat_primus1x/tommythecat_primus1x")
+      ((2 2 2 2 0 2 2))
+      ('tracks'
+         (
+            ('drum' (0 1))
+            ('bass' (2 3))
+            ('guitar' (4 5))
+            ('vocals' (6 7))
+         )
+      )
+      ('pans'
+         (-1.00 1.00 -1.00 1.00 -1.00 1.00 -1.00 1.00 -1.00 1.00 -2.50 2.50)
+      )
+      ('vols' (0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0 0))
+      ('cores' (-1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1))
+      ('crowd_channels' 10 11)
+      ('vocal_parts' 2)
+      ('drum_solo'
+         ('seqs' ('kick.cue' 'snare.cue' 'tom1.cue' 'tom2.cue' 'crash.cue'))
+      )
+      ('drum_freestyle'
+         ('seqs' ('kick.cue' 'snare.cue' 'hat.cue' 'ride.cue' 'crash.cue'))
+      )
+      (mute_volume -96)
+      (mute_volume_vocals -12)
+      (hopo_threshold 170)
+   )
+   ('song_scroll_speed' 1700)
+   ('bank' "sfx/tambourine_bank.milo")
+   (drum_bank sfx/kit01_bank.milo)
+   ('anim_tempo' 32)
+   ('song_length' 261579)
+   ('preview' 119000 149000)
+   ('rank'
+      ('drum' 448)
+      ('guitar' 409)
+      ('bass' 620)
+      ('vocals' 494)
+      ('keys' 0)
+      ('real_keys' 0)
+      ('band' 590)
+   )
+   ('genre' 'alternative')
+   (author "Gigakoops")
+   ('vocal_gender' 'male')
+   ('version' 30)
+   ('format' 10)
+   ('album_art' 1)
+   ('year_released' 1991)
+   ('rating' 2)
+   ('sub_genre' 'subgenre_other')
+   ('song_id' 1673401217)
+   (solo (guitar bass))
+   ('tuning_offset_cents' 0)
+   ('guide_pitch_volume' -3.00)
+   ('game_origin' 'ugc_plus')
+   ('encoding' 'latin1')
+   ('album_name' "Sailing the Seas of Cheese")
+   ('album_track_number' 9)
+   ;DO NOT EDIT THE FOLLOWING LINES MANUALLY
+   ;Created using Magma: C3 Roks Edition v3.3.2
+   ;Song authored by Gigakoops
+   ;Song=Tommy the Cat (ft. Tom Waits)
+   ;Language(s)=English,
+   ;Karaoke=0
+   ;Multitrack=0
+   ;Convert=0
+   ;2xBass=0
+   ;RhythmKeys=0
+   ;RhythmBass=0
+   ;CATemh=0
+   ;ExpertOnly=0
+)
